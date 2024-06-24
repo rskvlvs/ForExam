@@ -1,0 +1,14 @@
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.exe
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.deps.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.runtimeconfig.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfo.cs
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\refint\TaskThree.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.genruntimeconfig.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskThree\TaskThree\obj\Debug\net8.0\ref\TaskThree.dll

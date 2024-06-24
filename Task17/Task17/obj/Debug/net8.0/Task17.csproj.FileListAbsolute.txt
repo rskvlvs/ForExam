@@ -1,0 +1,14 @@
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\bin\Debug\net8.0\Task17.exe
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\bin\Debug\net8.0\Task17.deps.json
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\bin\Debug\net8.0\Task17.runtimeconfig.json
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\bin\Debug\net8.0\Task17.dll
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\bin\Debug\net8.0\Task17.pdb
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.AssemblyInfo.cs
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.dll
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\refint\Task17.dll
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.pdb
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\Task17.genruntimeconfig.cache
+C:\Users\rasko\Desktop\Прога практ часть\Task17\Task17\obj\Debug\net8.0\ref\Task17.dll

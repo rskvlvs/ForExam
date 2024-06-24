@@ -1,0 +1,14 @@
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\bin\Debug\net8.0\TaskFive.exe
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\bin\Debug\net8.0\TaskFive.deps.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\bin\Debug\net8.0\TaskFive.runtimeconfig.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\bin\Debug\net8.0\TaskFive.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\bin\Debug\net8.0\TaskFive.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.AssemblyInfo.cs
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\refint\TaskFive.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\TaskFive.genruntimeconfig.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskFive\TaskFive\obj\Debug\net8.0\ref\TaskFive.dll

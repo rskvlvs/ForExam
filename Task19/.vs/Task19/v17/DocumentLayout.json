@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|c:\\users\\rasko\\desktop\\\u043F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\task19\\task19\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|solutionrelative:task19\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|c:\\users\\rasko\\desktop\\\u043F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\task19\\task19\\mymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|solutionrelative:task19\\mymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|c:\\users\\rasko\\desktop\\\u043F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\task19\\task19\\imydiinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|solutionrelative:task19\\imydiinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|c:\\users\\rasko\\desktop\\\u043F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\task19\\task19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17567E9-D166-47A3-9BE4-08671DE520FC}|Task19\\Task19.csproj|solutionrelative:task19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyManager.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\MyManager.cs",
+              "RelativeDocumentMoniker": "Task19\\MyManager.cs",
+              "ToolTip": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\MyManager.cs",
+              "RelativeToolTip": "Task19\\MyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:29:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task19\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task19\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:28:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\Program.cs",
+              "RelativeDocumentMoniker": "Task19\\Program.cs",
+              "ToolTip": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\Program.cs",
+              "RelativeToolTip": "Task19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:33:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMyDIinterface.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\IMyDIinterface.cs",
+              "RelativeDocumentMoniker": "Task19\\IMyDIinterface.cs",
+              "ToolTip": "C:\\Users\\rasko\\Desktop\\\u041F\u0440\u043E\u0433\u0430 \u043F\u0440\u0430\u043A\u0442 \u0447\u0430\u0441\u0442\u044C\\Task19\\Task19\\IMyDIinterface.cs",
+              "RelativeToolTip": "Task19\\IMyDIinterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:28:59.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\bin\Debug\net8.0\TaskSeven.exe
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\bin\Debug\net8.0\TaskSeven.deps.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\bin\Debug\net8.0\TaskSeven.runtimeconfig.json
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\bin\Debug\net8.0\TaskSeven.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\bin\Debug\net8.0\TaskSeven.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.AssemblyInfo.cs
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\refint\TaskSeven.dll
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.pdb
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\TaskSeven.genruntimeconfig.cache
+C:\Users\rasko\Desktop\Прога практ часть\TaskSeven\TaskSeven\obj\Debug\net8.0\ref\TaskSeven.dll
